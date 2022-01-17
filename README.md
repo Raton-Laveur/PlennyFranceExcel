@@ -1,7 +1,7 @@
 # PlennyFranceExcel
 Feuille de calcul Excel pour calculer ses besoins nutrionnels avec de la bouffe en poudre. Des ratios pour perte de poids sont également inclus. 
 
-Même si la configuration présentée correspond à [PlennyShake](https://plennyfrance.fr/products/plenny-shake), elle est aisément adaptable en modifiant le contenu des cellules encadrées en rouge. 
+Même si la configuration présentée correspond à [PlennyShake](https://jimmyjoy.com/products/plenny-shake), elle est aisément adaptable en modifiant le contenu des cellules encadrées en rouge. 
 
 Les formules sont adaptées au système métrique (taille en centimètres, poids en kilogrammes). 
 
